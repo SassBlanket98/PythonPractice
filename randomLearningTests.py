@@ -57,11 +57,19 @@
 
 # print(power(2, 3))
 
-try:
-   num1 = 7
-   num2 = 0
-   print(num1 / num2)
-   print("Done calculation")
-except ZeroDivisionError:
-   print("An error occurred")
-   print("due to zero division")
+# try:
+#    num1 = 7
+#    num2 = 0
+#    print(num1 / num2)
+#    print("Done calculation")
+# except ZeroDivisionError:
+#    print("An error occurred")
+#    print("due to zero division")
+
+# try:
+#    variable = 10
+#    print (10 / 2)
+# except ZeroDivisionError:
+#    print("Error")
+# print("Finished")
+
