@@ -12,4 +12,4 @@ if __name__ == "__main__":
     length = int(input("Enter the length of the passwords: "))
     count = int(input("Enter the number of passwords to generate: "))
     passwords = generate_password(length, count)
-    print(passwords)
+    print("\n".join(passwords))

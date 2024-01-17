@@ -10,4 +10,4 @@ def generate_password(length):
 if __name__ == "__main__":
     length = int(input("Tell me the length you want your password to be?: "))
     password = generate_password(length)
-    print("Your password, sire:", password)
+    print("Your password, kind sir:", password)
