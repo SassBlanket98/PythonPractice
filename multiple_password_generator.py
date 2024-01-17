@@ -1,6 +1,8 @@
 import random
 import string
 
+print("David's Multiple Password Generator")
+
 def generate_password(length, count):
     passwords = []
     for i in range(count):
