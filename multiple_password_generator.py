@@ -1,7 +1,7 @@
 import random
 import string
 
-print("David's Multiple Password Generator")
+print("David's Multiple Password Generator", "\n")
 
 def generate_password(length, count):
     passwords = []

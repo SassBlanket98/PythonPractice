@@ -2,7 +2,7 @@
 import random
 import string
 
-print("David's Password Generator")
+print("David's Password Generator", "\n")
 
 def generate_password(length):
     all_characters = string.ascii_letters + string.digits + string.punctuation
